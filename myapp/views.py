@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def aweb(request):
-    return HttpResponse("Hello, This is the aweb view!")
+    return HttpResponse("Hello, This is the aweb view!, FINISHED")
